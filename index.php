@@ -9,7 +9,7 @@
 </head>
 <body>
     <div>
-        <h1><?php echo $nome ?></h1>
+        <h1><?php echo $phrase ?></h1>
         <img src="<?php $img ?>" alt="">
     </div>
 </body>
